@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Brailletouch 
 
-You can use the [editor on GitHub](https://github.com/brailletouch/brailletouch.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Este es el repositorio de Brailletouch una pantalla braile open source
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nuestro repositorio de código fuente puede encontrarlo en, GitHub [Brailletouch](https://github.com/brailletouch/) 
 
 ### Markdown
 
